@@ -1,0 +1,22 @@
+{
+  "name": "apollon-plugin-connector-orientdb",
+  "version": "1.0.0",
+  "description": "Connector for OrientDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentMarrec/apollon-plugin-connector-orientdb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VincentMarrec/apollon-plugin-connector-orientdb/issues"
+  },
+  "homepage": "https://github.com/VincentMarrec/apollon-plugin-connector-orientdb#readme",
+  "dependencies": {
+    "orientjs": "^3.0.7"
+  }
+}
